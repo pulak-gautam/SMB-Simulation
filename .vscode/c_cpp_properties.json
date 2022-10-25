@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/pulak/catkin_ws/devel/include/**",
+        "/home/pulak/catkin_ws/src/husky_pos_vel/include/**",
+        "/home/pulak/catkin_ws/src/smb_common/smb_gazebo/include/**",
+        "/home/pulak/catkin_ws/src/uav_postion_control/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
